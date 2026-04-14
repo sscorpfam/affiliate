@@ -1,0 +1,40 @@
+{
+    "affiliate": [
+        {
+            "id": 1,
+            "nama_produk": "Tilawah Al Quran A5 Tanpa Terjemahan",
+            "harga": 53100,
+            "rating": 4.9,
+            "terjual": "1RB+",
+            "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/qurantilawaha5.jpg",
+            "link_affiliate": "https://s.shopee.co.id/10yyM3tjqx"
+        },
+        {
+            "id": 2,
+            "nama_produk": "Mushaf Wanita Wardah Resleting A6 terjemahan",
+            "harga": 58000,
+            "rating": 4.9,
+            "terjual": "702",
+            "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/mushafwanitawardah.jpg",
+            "link_affiliate": "https://s.shopee.co.id/2g7CNAUsr7"
+        },
+        {
+            "id": 3,
+            "nama_produk": "Al Quran Medis A4 & A5 - Dengan Terjemahan",
+            "harga": 119000,
+            "rating": 4.9,
+            "terjual": "1RB+",
+            "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/quranmedis.jpg",
+            "link_affiliate": "https://s.shopee.co.id/8fOPWme2b9"
+        },
+        {
+            "id": 4,
+            "nama_produk": "Al Quran Medis Panduan Pengobatan Nabi",
+            "harga": 129000,
+            "rating": 4.9,
+            "terjual": "448",
+            "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/quranmedis2.jpg",
+            "link_affiliate": "https://s.shopee.co.id/2g7CO9Wi5C"
+        }
+    ]
+}
