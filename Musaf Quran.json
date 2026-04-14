@@ -35,6 +35,24 @@
             "terjual": "448",
             "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/quranmedis2.jpg",
             "link_affiliate": "https://s.shopee.co.id/2g7CO9Wi5C"
+        },
+        {
+            "id": 5,
+            "nama_produk": "Al Quran Nuzula Kids - Custom Tulis Nama dan Quote",
+            "harga": 99899,
+            "rating": 5,
+            "terjual": "7RB+",
+            "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/quran%20nuzula.jpg",
+            "link_affiliate": "https://s.shopee.co.id/40ca9mA21m"
+        },
+        {
+            "id": 6,
+            "nama_produk": "Al Quran Super Tajwid Multikode Latin dan Terjemah Latin Per Kata",
+            "harga": 129900,
+            "rating": 5,
+            "terjual": "1RB+",
+            "gambar_url": "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/quran%20super.jpg",
+            "link_affiliate": "https://s.shopee.co.id/8AS984VDDf"
         }
     ]
 }
