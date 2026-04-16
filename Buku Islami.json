@@ -60,39 +60,32 @@
         },
         {
             "id": 5,
-            "nama_produk": "",
-            "harga": 50829,
+            "nama_produk": "Kitab Sirrul Asror HC - Syekh Abdul Qadir al-Jailani - MENEMUKAN HAKIKAT ALLAH",
+            "harga": 89275,
             "rating": 4.9,
             "terjual": "1RB+",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ksa1.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ksa2.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ksa3.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ksa4.jpg"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/2BAz1THcHO",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nPenulis : Syekh Abdul Qadir al-Jailani<br>Ukuran : 15 x 23 cm / 2,4 cm<br>Halaman : 268 halaman<br>Cover : Hard Cover<br><br>Banyak sekali ulama yang telah menulis kitab tasawuf, namun tak banyak yang mampu menjelaskan sedalam dan segamblang Syekh Abdul Qadir al-Jailani (1078-1166).<br><br>Buku berjudul asli Sirrul Asrar ini merupakan salah satu karya yang paling berhasil menjelaskan secara detail pengalaman dan tahapan-tahapan spritiual seseorang untuk mencapai Tarekat dan Makrifat hingga mencapai Hakikat Allah.<br><br>Syekh Abdul Qadir Jailani<br>Lahir pada 1 Ramadhan 470 H di Jailan (Jilan), Persia.<br>Putra dari Abu Shaleh Musa dan Fatimah binti Abdullah ash-Shauma’i<br>Menguasai berbagai cabang ilmu: syariat, tarekat, bahasa, dan sastra Arab.<br>Karyanya yang lain ialah Mukhatasar Ulumuddin, Fathur Rabbani, Sirrul Asrar, dan lain-lain.<br>"
         },
         {
             "id": 6,
-            "nama_produk": "",
-            "harga": 50829,
-            "rating": 4.9,
-            "terjual": "1RB+",
+            "nama_produk": "Buku Terjemah FATHUR RABBANI Menemukan Kunci Rahasia Ilahi Kitab Pembuka Rahasia Ilahi - Syekh Abdul Qadir al-Jailani",
+            "harga": 98900,
+            "rating": 4.8,
+            "terjual": "13",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/fr1.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/fr2.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/fr3.jpg"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/9AKjOeJCi6",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nAgar hati seorang salik terbuka dan mampu menerima cahaya Allah, wajib baginya mengerti cara membukanya. Kitab ini merupakan kunci untuk membuka hati yg terbelenggu oleh gemerlap dunia yg fana, supaya terbuka lebar sehingga mampu menerima cahaya kebenaran Allah.<br><br>SPESIFIKASI BUKU :<br>Judul : Fathur Robbani Terbitan QofMedia/HC<br>Penulis    : Syekh Abdul Qadir al-Jailani<br>Halaman    : 304 Halaman<br>Edisi Cetak Buku Tersedia : Cet ke  9 '2022<br>"
         },
         {
             "id": 7,
