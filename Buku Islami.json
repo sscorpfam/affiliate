@@ -89,39 +89,31 @@
         },
         {
             "id": 7,
-            "nama_produk": "",
-            "harga": 50829,
-            "rating": 4.9,
-            "terjual": "1RB+",
+            "nama_produk": "Buku PANDUAN SHALAT Lengkap + Bonus Dzikir Pagi Petang & Wirid Setelah Sholat, Tata Cara Sholat Sesuai Tuntunan Rasulullah - Imam Syafi'i",
+            "harga": 112200,
+            "rating": 4.8,
+            "terjual": "298",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ps1.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ps2.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ps3.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ps4.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/ps5.jpg"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/7ppLz0HkvW",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nJudul  Buku : PANDUAN SHALAT Lengkap Tata Cara Sholat Sesuai Tuntunan Rasulullah Oleh Imam Syafi'i<br><br>Shalat adalah ibadah paling utama seorang Muslim, yang harus dilakukan dalam keadaan apapun, bahkan dalam kondisi sakit atau tengah dicekam ketakutan (misalnya perang). Ini beda dengan tiga rukun Islam lainnya, yaitu puasa Ramadhan, Zakat dan haji, yang boleh tidak dikerjakan bila kita tidak punya kemampuan untuk melaksanakannya.<br><br>Buku ini menuntun Anda untuk dapat shalat secara sempurna, dengan mengikuti aturan-aturan yang telah ditetapkan secara rinci. Berbeda dengan buku panduan shalat lainnya yang banyak beredar di masyarakat, buku ini ditulis oleh Imam Muhammad bin Idris ASY-SYAFI'IY (IMAM ASY-SYAFI'IY), salah satu imam mazhab dan seorang tabi'it tabi'in, yang masa hidupnya tidak terlalu jauh dari masa hidup Rasulullah saw. sendiri. Beliau mengamati langsung para ulama dan warga Mekkah dan Madinah shalat pada masa itu, juga hadits-hadits tentang shalat yang banyak beredar di kalangan ulama dua kota suci tersebut.<br><br>IMAM ASY-SYAFI'IY atau 767-820 M) adalah ulama keturunan Quraisy Mekkah tapi lahir di Gaza (Palestina). Beliau mencapai tingkat keilmuan yang tinggi di Mekkah, dibawah bimbingan Imam Malik bin Anas atau Imam Maliki, pendiri Mazhab Maliki. Imam Syafi'i adalah pendiri mazhab Syafi'i, salah satu dari empat mazhab besar fiqih di kalangan Ahlussunah wal Jamaah.<br>"
         },
         {
             "id": 8,
-            "nama_produk": "",
-            "harga": 50829,
+            "nama_produk": "Buku Paket Sifat Shalat Nabi , Kumpulan shalat sunnah , 221 kesalahan dalam shalat , dzikir pagi petang",
+            "harga": 110000,
             "rating": 4.9,
-            "terjual": "1RB+",
+            "terjual": "354",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/gambar/bps1.jpg"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/4LFTpo0avf",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n#sifatshalatnabi#dzikirpagipetang#221kesalahandalamshalat#kumpulanshalatsunnah#bukuislam#paketshalat#darulhaq<br>"
         },
         {
             "id": 9,
