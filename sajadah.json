@@ -177,20 +177,18 @@
         },
         {
             "id": 10,
-            "nama_produk": "",
-            "harga": 0,
-            "rating": 5,
-            "terjual": "154",
+            "nama_produk": "Sajadah Sakha Azhara Brown Tahan Air Dan Slip",
+            "harga": 145529,
+            "rating": 4.9,
+            "terjual": "6RB+",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/ss1.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/ss2.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/ss3.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/ss4.jpg"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/16Z7jtY6I",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nSajadah Sakha adalah sajadah premium dan dilengkapi alas kulit sintetis berkualitas dengan fitur TAHAN AIR dan TIDAK MUDAH SLIP<br>✔️FREE Pouch / Tas Sajadah<br>✔️FREE Box <br>✔️FREE Gift Card (bisa request ucapan atau kartu ucapan kosong)<br>❗️REQUEST UCAPAN mohon tulis di catatan pembeli atau via chat ya kak<br><br>Tersedia  Ukuran: <br>Reguler / Dewasa 55 x 95 cm<br>(Toleransi ukuran 1-2cm)<br><br>Spesifikasi:<br>- Bahan atas : Kanvas Premium ( tidak menyebabkan alergi)<br>- Alas Bawah: Kulit Sintetis, membuat sajadah tidak mudah bergeser dan tidak tembus air dan terlihat lebih premium<br>"
         }
     ]
 }
