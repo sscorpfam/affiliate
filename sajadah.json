@@ -158,20 +158,22 @@
         },
         {
             "id": 9,
-            "nama_produk": "",
-            "harga": 0,
-            "rating": 5,
-            "terjual": "154",
+            "nama_produk": "Sajadah bulu halus Kilat/glossy/silk Uk 50x100cm",
+            "harga": 40900,
+            "rating": 4.8,
+            "terjual": "7RB+",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb1.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb2.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb3.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb4.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb5.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb6.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb7.jpg",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/sajadah/sb8.jpg"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/2qQkTXDZC7",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nSajadah bulu KILAT/GLOSSY ( PERMUKAAN KILAT )<br>*Memiliki ukuran : 50x100cm<br>*Bahan : sajadah bulu halus glossy dengan alas bintik bintik anti slip<br><br>Kualitas terjamin karena setiap sajadah telah diperiksa satu persatu Bahan polyester kilat/glossy yang lembut, halus dan nyaman.<br>*Sajadah REAL PIC langsung dari Kami dan silakan di review video upload kami<br>"
         },
         {
             "id": 10,
