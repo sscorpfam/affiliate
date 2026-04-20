@@ -77,22 +77,21 @@
         },
         {
             "id": 5,
-            "nama_produk": "",
-            "harga": 0,
-            "rating": 4.8,
-            "terjual": "4RB+",
+            "nama_produk": "Vista Parfum - Parfum Oud Pria Zam Zam Turki EMRE Mirac Parfum Cowok Extrait De Perfume Islami Parfum Oud Zam Zam",
+            "harga": 90000,
+            "rating": 4.9,
+            "terjual": "218",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps1.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps2.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps3.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps4.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps5.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps6.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/parfum/vps7.webp"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/7fW1dL00Hu",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nEMRE PERFUMOLOGY - Extrait De Perfume 30ml<br><br>Satu-satunya parfum di Indonesia yang memadukan kemewahan aroma EROPA dengan keunikan aroma TIMUR TENGAH. Bercampur dengan air ZAM-ZAM beserta semua khasiatnya membuat parfum ini mejadi partner sempurna untuk dipakai sehari-hari dalam segala aktifitas<br><br>KOMPOSISI menggunakan wewangian parfum IMPORT yang AMAN dan BERKUALITAS TINGGI, pelarut absolute, HALAL untuk dipakai sholat, mengandung AIR ZAM-ZAM yang sangat BERKHASIAT dan BERMANFAAT BANYAK serta ada kandungan gliserin yang bermanfaat untuk menghaluskan kulit<br><br>DAYA TAHAN minimal 6JAM sampai dengan 12JAM<br><br>VARIAN MIRAC<br>Campuran vanilla dengan white rose, dibalut aroma oud yang oriental berpadu dengan aroma manisnya madu membuat kamu lebih tenang dan lebih berkarakter<br>"
         },
         {
             "id": 6,
