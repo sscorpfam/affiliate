@@ -1,0 +1,194 @@
+{
+    "affiliate": [
+        {
+            "id": 1,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 2,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 3,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 4,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 5,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 6,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 7,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 8,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 9,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        },
+        {
+            "id": 10,
+            "nama_produk": "",
+            "harga": 0,
+            "rating": 4.8,
+            "terjual": "10RB+",
+            "gambar_url": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "link_affiliate": "",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+        }
+    ]
+}
