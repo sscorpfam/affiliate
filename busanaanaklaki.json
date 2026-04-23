@@ -2,22 +2,20 @@
     "affiliate": [
         {
             "id": 1,
-            "nama_produk": "",
-            "harga": 0,
+            "nama_produk": "Baju Busana Muslim Anak Pria Setelan Koko Warna Putih Lengan Panjang Untuk TK SD MI",
+            "harga": 53950,
             "rating": 4.8,
             "terjual": "10RB+",
             "gambar_url": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/anakpria/bbm1.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/anakpria/bbm2.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/anakpria/bbm3.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/anakpria/bbm4.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/anakpria/bbm5.webp",
+                "https://cdn.jsdelivr.net/gh/sscorpfam/affiliate@main/anakpria/bbm6.webp"
             ],
-            "link_affiliate": "",
-            "deskripsi": "<h5>Deskripsi Produk</h5><br>\n"
+            "link_affiliate": "https://s.shopee.co.id/1BIcoryttf",
+            "deskripsi": "<h5>Deskripsi Produk</h5><br>\nBaju KOKO Klasik SETELAN ANAK<br>Bahan Katun<br><br>UKURAN<br>Cek pada gambar<br><br>PERHATIAN :<br>BUNGA MOTIF BORDIR DIKIRIM RANDOOM SESUAI STOK<br>"
         },
         {
             "id": 2,
